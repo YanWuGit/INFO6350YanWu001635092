@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "12020214764",
+    "project_id": "yanwu001635092",
+    "storage_bucket": "yanwu001635092.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12020214764:android:b32005fd5422e322ca2ec9",
+        "android_client_info": {
+          "package_name": "com.example.inclass6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12020214764-smss00te21gfhhe4m9d7rh8sdnhijta3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6eWqu3Gi5R2Anexk_isatZsa2vbdoL2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12020214764-smss00te21gfhhe4m9d7rh8sdnhijta3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12020214764-nhs8ingqqm5nkq3m7u452e8nqj3ahcqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.yanwu001635092"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12020214764:android:d1be0cf1dd0b4121ca2ec9",
+        "android_client_info": {
+          "package_name": "com.mycompany.yanwu001635092"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12020214764-110bbd8u9i6r1hu9bc5er19lotrov4c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.yanwu001635092",
+            "certificate_hash": "35c863311ea4641f83e51c99881f49ba2707422c"
+          }
+        },
+        {
+          "client_id": "12020214764-8qv2ao1qkq38mjki1i8su2bktsfkpf5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.yanwu001635092",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "12020214764-smss00te21gfhhe4m9d7rh8sdnhijta3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6eWqu3Gi5R2Anexk_isatZsa2vbdoL2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12020214764-smss00te21gfhhe4m9d7rh8sdnhijta3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12020214764-nhs8ingqqm5nkq3m7u452e8nqj3ahcqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.yanwu001635092"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
